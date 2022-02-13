@@ -1,0 +1,3 @@
+npx json-server --watch db.json --port 3003( this helps to run a json data)
+npm i json-server(to install json server)
+

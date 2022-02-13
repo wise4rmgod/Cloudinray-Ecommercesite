@@ -1,0 +1,52 @@
+{
+  "productData": [
+    {
+      "id": 1,
+      "image": "https://images.pexels.com/photos/3782789/pexels-photo-3782789.jpeg?cs=srgb&dl=pexels-bella-zhong-3782789.jpg&fm=jpg",
+      "title": "Beautiful",
+      "product": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vivamus arcu felis bibendum ut tristique et egestas. Proin libero nunc consequat interdum. Nulla facilisi etiam dignissim diam quis enim. Cum sociis natoque penatibus et magnis. Quam pellentesque nec nam aliquam. Viverra orci sagittis eu volutpat odio facilisis mauris sit amet. Lorem ipsum dolor sit amet consectetur adipiscing. Bibendum est ultricies integer quis auctor elit.",
+      "price": 80000
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/pueneh/image/upload/v1644066944/qriwggq3qf5xfd1on7qd.jpg",
+      "title": "Beautiful",
+      "product": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vivamus arcu felis bibendum ut tristique et egestas. Proin libero nunc consequat interdum. Nulla facilisi etiam dignissim diam quis enim. Cum sociis natoque penatibus et magnis. Quam pellentesque nec nam aliquam. Viverra orci sagittis eu volutpat odio facilisis mauris sit amet. Lorem ipsum dolor sit amet consectetur adipiscing. Bibendum est ultricies integer quis auctor elit.",
+      "price": 80000
+    },
+    {
+      "id": 3,
+      "image": "https://images.pexels.com/photos/3602449/pexels-photo-3602449.jpeg?cs=srgb&dl=pexels-bella-zhong-3602449.jpg&fm=jpg",
+      "title": "Beautiful",
+      "product": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vivamus arcu felis bibendum ut tristique et egestas. Proin libero nunc consequat interdum. Nulla facilisi etiam dignissim diam quis enim. Cum sociis natoque penatibus et magnis. Quam pellentesque nec nam aliquam. Viverra orci sagittis eu volutpat odio facilisis mauris sit amet. Lorem ipsum dolor sit amet consectetur adipiscing. Bibendum est ultricies integer quis auctor elit.",
+      "price": 80000
+    },
+    {
+      "id": 4,
+      "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?cs=srgb&dl=pexels-melvin-buezo-2529148.jpg&fm=jpg",
+      "title": "Beautiful",
+      "product": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vivamus arcu felis bibendum ut tristique et egestas. Proin libero nunc consequat interdum. Nulla facilisi etiam dignissim diam quis enim. Cum sociis natoque penatibus et magnis. Quam pellentesque nec nam aliquam. Viverra orci sagittis eu volutpat odio facilisis mauris sit amet. Lorem ipsum dolor sit amet consectetur adipiscing. Bibendum est ultricies integer quis auctor elit.",
+      "price": 80000
+    },
+    {
+      "id": 5,
+      "image": "https://images.pexels.com/photos/3076787/pexels-photo-3076787.jpeg?cs=srgb&dl=pexels-bella-zhong-3076787.jpg&fm=jpg",
+      "title": "Beautiful",
+      "product": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vivamus arcu felis bibendum ut tristique et egestas. Proin libero nunc consequat interdum. Nulla facilisi etiam dignissim diam quis enim. Cum sociis natoque penatibus et magnis. Quam pellentesque nec nam aliquam. Viverra orci sagittis eu volutpat odio facilisis mauris sit amet. Lorem ipsum dolor sit amet consectetur adipiscing. Bibendum est ultricies integer quis auctor elit.",
+      "price": 80000
+    },
+    {
+      "id": 6,
+      "image": "https://images.pexels.com/photos/6050917/pexels-photo-6050917.jpeg?cs=srgb&dl=pexels-ox-street-6050917.jpg&fm=jpg",
+      "title": "Beautiful",
+      "product": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vivamus arcu felis bibendum ut tristique et egestas. Proin libero nunc consequat interdum. Nulla facilisi etiam dignissim diam quis enim. Cum sociis natoque penatibus et magnis. Quam pellentesque nec nam aliquam. Viverra orci sagittis eu volutpat odio facilisis mauris sit amet. Lorem ipsum dolor sit amet consectetur adipiscing. Bibendum est ultricies integer quis auctor elit.",
+      "price": 80000
+    }
+  ]
+}
